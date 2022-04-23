@@ -7,5 +7,4 @@ Here you have, a bunch of projects - "dsp" based, that I like / use / and so on 
 * [Overtone](https://github.com/overtone/overtone)
 
 
-best,
-/ federico
+/federico
